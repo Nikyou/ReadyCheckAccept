@@ -1,6 +1,6 @@
 ## Download link
 
-[https://www.curseforge.com/wow/addons/](https://www.curseforge.com/wow/addons/ready-check-accept)
+[https://www.curseforge.com/wow/addons/ready-check-accept](https://www.curseforge.com/wow/addons/ready-check-accept)
 
 ## Introduction
 

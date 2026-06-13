@@ -8,8 +8,8 @@
 ## Notes-ruRU: Автопринятие проверки готовности по критериям
 ## SavedVariables: ReadyCheckAcceptDB
 ## X-Curse-Project-ID: 1574534
-## X-WoWI-ID: 
-## X-Wago-ID: 
+## X-WoWI-ID: 27157
+## X-Wago-ID: v633Op6b
 
 # Libraries
 Libs\LibStub\LibStub.lua

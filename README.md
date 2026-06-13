@@ -1,6 +1,6 @@
 ## Download link
 
-https://www.curseforge.com/wow/addons/
+[https://www.curseforge.com/wow/addons/](https://www.curseforge.com/wow/addons/ready-check-accept)
 
 ## Introduction
 
@@ -23,7 +23,7 @@ https://www.curseforge.com/wow/addons/
 
 ## Localisation
 
-I will be glad if you could help with the addon localisation through the [Curseforge localisation]() feature.
+I will be glad if you could help with the addon localisation through the [Curseforge localisation](https://legacy.curseforge.com/wow/addons/ready-check-accept/localization) feature.
 
 ## Issues & Feedback
 

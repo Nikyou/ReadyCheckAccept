@@ -54,7 +54,7 @@ function ReadyCheckAccept:READY_CHECK(event, initiatorName, readyCheckTimeLeft)
     local min = self.db.profile.delayMin * 10
     local max = self.db.profile.delayMax * 10
     local delay = math.random(min, max) / 10
-    print(min/ 10, max/ 10, delay)
+
     C_Timer.After(delay, function()
         ConfirmReadyCheck(1)
         if ReadyCheckFrame and ReadyCheckFrame:IsShown() then ReadyCheckFrame:Hide() end

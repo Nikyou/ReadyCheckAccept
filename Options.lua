@@ -91,12 +91,7 @@ ReadyCheckAccept.options = {
             args = {
                 enabled = {type = "toggle", order = 1, name = L["Enabled"], desc = L["Enable in party"]},
                 inInstance = {type = "toggle", order = 2, name = L["In Instance"], desc = L["Accept when in instance"]},
-                outOfInstance = {
-                    type = "toggle",
-                    order = 3,
-                    name = L["Out of Instance"],
-                    desc = L["Accept when out of instance"],
-                },
+                outOfInstance = {type = "toggle", order = 3, name = L["Out of Instance"], desc = L["Accept when out of instance"]},
                 dead = {type = "toggle", order = 4, name = L["Dead / Ghost"], desc = L["Accept when dead / ghost"]},
             },
         },
@@ -110,12 +105,7 @@ ReadyCheckAccept.options = {
             args = {
                 enabled = {type = "toggle", order = 1, name = L["Enabled"], desc = L["Enable in raid"]},
                 inInstance = {type = "toggle", order = 2, name = L["In Instance"], desc = L["Accept when in instance"]},
-                outOfInstance = {
-                    type = "toggle",
-                    order = 3,
-                    name = L["Out of Instance"],
-                    desc = L["Accept when out of instance"],
-                },
+                outOfInstance = {type = "toggle", order = 3, name = L["Out of Instance"], desc = L["Accept when out of instance"]},
                 dead = {type = "toggle", order = 4, name = L["Dead / Ghost"], desc = L["Accept when dead / ghost"]},
             },
         },

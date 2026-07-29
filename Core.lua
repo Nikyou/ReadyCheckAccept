@@ -56,8 +56,10 @@ function ReadyCheckAccept:READY_CHECK(event, initiatorName, readyCheckTimeLeft)
     local delay = math.random(min, max) / 10
 
     C_Timer.After(delay, function()
-        ConfirmReadyCheck(1)
-        if ReadyCheckFrame and ReadyCheckFrame:IsShown() then ReadyCheckFrame:Hide() end
+        C_PartyInfo.ConfirmReadyCheck(true)
+        if (not UnitAffectingCombat("player")) and ReadyCheckFrame and ReadyCheckFrame:IsShown() then
+            ReadyCheckFrame:Hide()
+        end
     end)
 
 end

@@ -1,4 +1,4 @@
-#### 1.0.3
+#### 1.0.4
 * TOC bump
 #### 1.0.3
 * Fixed an error while accepting ready check in combat

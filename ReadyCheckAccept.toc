@@ -1,5 +1,5 @@
 ## Title: Ready Check Accept
-## Interface: 120005, 120007
+## Interface: 120100
 ## Version: @project-version@
 ## Author: Nikyou (Megabelly-Silvermoon EU)
 ## IconTexture: Interface\AddOns\ReadyCheckAccept\logo

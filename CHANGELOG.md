@@ -1,7 +1,7 @@
 #### 1.1.0
 * Added option to not accept ready checks when you have not moved for a set time (separate for party and raid, off by default)
 * Added option to show a chat message when a ready check is skipped because you are idle
-* Added German localisation
+* Added German localisation (thanks Spartanierin!)
 #### 1.0.4
 * TOC bump
 #### 1.0.3
